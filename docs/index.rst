@@ -1,3 +1,6 @@
+.. toctree::
+:site_name: Waves Platform
+
 =====================
 Waves Docs
 =====================
