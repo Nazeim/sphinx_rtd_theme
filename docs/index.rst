@@ -2,7 +2,7 @@
 Waves Docs
 =====================
 
-
+..  site_name:: Waves Platform Docs
 
 
 Content
