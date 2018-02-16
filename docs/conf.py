@@ -56,8 +56,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Sphinx Theme'
-copyright = u'Read the Docs, Inc & contributors'
+project = u'Waves Documentation'
+copyright = u'Waves Platform'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
