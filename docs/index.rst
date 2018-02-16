@@ -7,7 +7,7 @@ Content
    :caption: Theme
    :maxdepth: 2
 
-   installing
+   
    configuring
    changelog
 
