@@ -10,7 +10,6 @@ Content
    installing
    configuring
    changelog
-   contributing
 
 .. toctree::
    :caption: Demo
