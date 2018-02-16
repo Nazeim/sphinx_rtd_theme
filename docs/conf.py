@@ -260,3 +260,8 @@ texinfo_documents = [
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+# Bibliographic Dublin Core info.
+epub_title = Waves
+epub_author = author
+epub_publisher = author
+epub_copyright = copyright
