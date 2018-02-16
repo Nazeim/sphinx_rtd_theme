@@ -1,5 +1,9 @@
 .. include:: ../README.rst
 
+=====================
+Waves Docs
+=====================
+
 Content
 =======
 
